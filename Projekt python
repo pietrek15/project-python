@@ -1,0 +1,15 @@
+Aplikacja webowa
+DO jej wykonania użyję frameworku Django.
+Podstawowe cele: 
+  -stworzenie strony typu blog
+  -można założyć swoje konto, login-hasło
+  -osobisty profil w którym będą zakładki: zainetesowania,kalendarz
+  -możliwość zmiany avatara
+  -tablica na którą moża wstawiać posty
+Dodatkowe cele:
+  -tablica na której mogą pisać posty użytkownicy, udostępnianie zdjęc i video
+  -kalendarz który po zalogowaniu na swoje konto wyświetli alert o zbliżającym się wydarzeniu które zapisaliśmy w nim
+  -komentarze pod postami
+  -raportowanie postow
+  -statystyki odwiedzin naszego konta
+  -mozliwosc "lajkowania" postow
