@@ -3,5 +3,7 @@ from . import views
 
 urlpatterns = [
     path('',views.article_list, name="list"),
-    path('(?P<slug>[\w-]+)/',views.article_detail,name="detail"),
+    path('create/',views.article_create,name="create"),
+    path('blog/view/<slug>/',views.article_detail,name="detail"),
+
 ]
